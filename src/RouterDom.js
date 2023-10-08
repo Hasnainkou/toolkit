@@ -71,7 +71,7 @@ const Nav = () => {
 export default Nav;`}</code>
 
 <hr />
-
+  
 <h2>Board creation like trello</h2>
 <h3>App.js</h3>
             <img src="1.jpg" alt="" style={{ width: "700px" }} />

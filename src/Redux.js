@@ -17,11 +17,11 @@ const Redux = () => {
             <h2>reducers.js</h2>
             <img src="5r.jpg" alt="" style={{ width: "700px" }} />
             <h2>Header.js</h2>
-            <img src="6r.jpg" alt="" style={{ width: "700px" }} />
+            <img src="6r.jpg" alt="" style={{ width: "700px" }} /> 
 
             <a href="Reduxupload.zip" download>
-                <div > 
-               Download Redux</div>
+                <div >
+                    Download Redux</div>
             </a>
         </div>
     )
